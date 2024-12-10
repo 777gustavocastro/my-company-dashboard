@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Apple",
+    "location": "USA",
+    "sector": "Technology",
+    "contact": "apple.com",
+    "logo": "images/logos/apple.svg",
+    "flag": "images/flags/usa.svg",
+    "status": "active"
+  },
+  {
+    "name": "Toyota",
+    "location": "Japan",
+    "sector": "Automotive",
+    "contact": "toyota-global.com",
+    "logo": "images/logos/toyota.svg",
+    "flag": "images/flags/japan.svg",
+    "status": "inactive"
+  }
+]
